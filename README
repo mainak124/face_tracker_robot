@@ -1,0 +1,6 @@
+Follow the order to run the code:
+1. roslaunch openni_launch openni.launch
+2. rosrun openni_tracker openni_tracker
+3. roslaunch team_3_robot_follower start_face_detector.launch
+4. roslaunch team_3_robot_follower start_tf.launch
+5. roslaunch team_3_robot_follower start_drive.launch
